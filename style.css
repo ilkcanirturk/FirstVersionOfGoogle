@@ -1,0 +1,46 @@
+.logopart {
+    text-align: center;
+}
+
+.search-content {
+    text-align: center;
+    background-color: #EEEEEE;
+    width: 100%;
+    height: 70px;
+}
+
+.links-content {
+    margin-top:5px;
+    text-align: center;
+    width: 100%;
+    float: left;
+}
+
+.box{
+    text-align: center;
+    float: left;
+}
+
+.op1 {
+    background-color:#7EE5DA;
+    width: 33.3%;
+    height: 90px;
+}
+
+.op2 {
+    background-color:#70CCC2 ;
+    width: 33.3%;
+    height: 90px;
+}
+
+.op3 {
+    background-color: #62B3AA;
+    width: 33.3%;
+    height: 90px;
+}
+
+
+.footer {
+    text-align: center;
+    padding-top: 100px;
+}
